@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-color: #739998;
+    
+}
+h1 {
+    text-align: center;
+    color: red;
+    margin-bottom: 100px ;
+    font-size: 1.5cm;
+}
+
+h2 {
+    text-align: center;
+    color: yellowgreen;
+ }
+ 
+ .form-1{
+    width: 15%;
+   border-top: 30px;
+   border-left: 30px;
+   border-right: 30px;
+   margin-left: 42.5%;
+   margin-top: 15px;
+   font-size: 0.5cm;
+ }
+
+.form-2{
+   margin-top: 40px;
+   margin-left: 48.5%;
+   
+}
+
+p1{
+    margin-left: 48%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 0.5cm;
+}
+ 
+
+.keyboard{
+        margin-left: 23%;
+        display: table;
+        width: 55%;
+        align-items: center;
+        text-align:center;
+        justify-content: row;
+        margin-top: -65px;
+     }
+     
+     
+    
+
+.keyboard Input[Type="Button"] {
+    Padding: 20px 30px;
+    
+     border-radius: 100%;
+     Background: black;
+     Color: white;
+     Text-Transform: Uppercase;
+ 
+     cursor: pointer;
+ }
