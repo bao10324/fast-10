@@ -41,9 +41,6 @@ function two(){
        one();
     }
  }
-function three(){
-    start1.innerHTML = start1;
-}
 
 
 
